@@ -1,0 +1,7 @@
+<div ng-include="'components/navbar/navbar.html'"></div>
+<div class="container">
+  <h1> {{tinfoil.name}}</h1>
+  <p>By <u>{{tinfoil.author}}</u> at <a href="{{tinfoil.href}}">{{tinfoil.href}}</a></p>
+
+  <div ng-bind-html="tinfoil.writeup"></div>
+</div>

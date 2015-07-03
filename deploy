@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# There are two steps.
+
+# STEP 1: You should set up your remote server like this: 
+# https://gist.github.com/Ectsang/e7d5b4fb621d84137052
+
+# STEP 2: change the destionation path below to your remote server git repo
+repo=tdlom@asotaf.com:/home/tdlom/repos/asotaf
+
+## DO NOT EDIT BELOW THIS LINE ##
+now="$(date +'%d/%m/%Y/%r')"
+echo $now
+
+# remove dist/ folder
+rm -rf dist
+
+# rebuild dist/ folder
+grunt build
+cd dist
+
+# set up new git remote, add, commit to today's datetime
+git init .
+echo "node_modules" >> .gitignore
+git add --all
+git commit -m "$now"
+git remote add deploy $repo
+
+# push to remote server
+git push deploy master --force
+
+# clean up dist
+cd ..
+rm -rf dist

@@ -1,0 +1,32 @@
+<div ng-include="'components/navbar/navbar.html'"></div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1 class="page-header">Tinfoils:</h1>
+      <ul class="nav nav-stacked" ng-repeat="tinfoil in tinfoils">
+	    <li><a href="/writeup/id/{{tinfoil._id}}" data-placement="bottom" data-toggle="tooltip" title="{{tinfoil.info}}">{{tinfoil.name}}</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<script>
+  $(document).ready(function() {
+    $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+});
+</script>
+
+<div class="container">
+    <ul class="nav nav-tabs">
+        <li class="nav active"><a href="#A" data-toggle="tab">A</a></li>
+        <li class="nav"><a href="#B" data-toggle="tab">B</a></li>
+        <li class="nav"><a href="#C" data-toggle="tab">C</a></li>
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <div class="tab-pane fade in active" id="A">Content inside tab A</div>
+        <div class="tab-pane fade" id="B">Content inside tab B</div>
+        <div class="tab-pane fade" id="C">Content inside tab C</div>
+    </div>
+</div>

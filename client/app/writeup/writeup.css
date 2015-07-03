@@ -1,0 +1,7 @@
+blockquote small:before, blockquote .small:before {
+  content: "";
+}
+
+blockquote {
+  font-size: 16px;
+}
