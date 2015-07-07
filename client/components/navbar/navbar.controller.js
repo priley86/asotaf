@@ -6,6 +6,9 @@ angular.module('asotafApp')
       'title': 'Home',
       'link': '/'
     },{
+      'title': 'Compendium',
+      'link': '/compendium'
+    },{
       'title': 'Tinfoil',
       'link': '/tinfoil'
     }];
