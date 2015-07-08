@@ -288,6 +288,15 @@ angular.module('asotafApp')
                                 }
                             ]
                         },
+                        {
+                            "name":"Howland + Ashara = Meera and Jojen",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559c73e1afdac3456124a22d",
+                                    "number":"1"
+                                }
+                            ]
+                        },
                     ]
                 },
                 {
