@@ -563,6 +563,123 @@ angular.module('asotafApp')
                         },
                     ]
                 },
+                {
+                    "name":"Catelyn Tully",
+                    "theories":[
+                        {
+                            "name":"Catelyn is being affected by the curse of Harrenhal.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559dde49afdac34cde5ad16e",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Cersei Lannister",
+                    "theories":[
+                        {
+                            "name":"Cersei will burn King's Landing.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559de0b3afdac34cf90d11a4",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Jaime is the Valonqar and will kill Cersei.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55998975afdac375191fd246",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Cersei is pregnant and will have an abortion.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559de2d4afdac34d048c49a9",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Chataya",
+                    "theories":[
+                        {
+                            "name":"Tywin + Chataya = Alayaya.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599b689afdac37c84dadaee",
+                                    "number":"1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Coldhands",
+                    "theories":[
+                        {
+                            "name":"Coldhands is from Skagos.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599b5b0afdac37c79dcf740",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Coldhands is Ser Duncan the Tall.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55997ee0afdac3741123f948",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Coldhands is Craster's father.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559deac8afdac34e86fb7049",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Coldhands is the Night's King.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599743dafdac37345290229",
+                                    "number":"1"
+                                },
+                                {
+                                    "url":"writeup/id/559c77cbafdac3460416bce8",
+                                    "number":"2"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Coldhands is the last hero.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5598ae7bafdac360ed872664",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Coldhands is Bran the Builder.",
+                        },
+                    ]
+                },
             ]
         },
         {
