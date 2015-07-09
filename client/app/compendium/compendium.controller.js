@@ -313,6 +313,256 @@ angular.module('asotafApp')
                         },
                     ]
                 },
+                {
+                    "name":"Balon Greyjoy",
+                    "theories":[
+                        {
+                            "name":"Balon was killed by a Faceless Man.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559cacdaafdac346e4df257e",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Barbrey Dustin",
+                    "theories":[
+                        {
+                            "name":"Lady Dustin worked with Mance to free Jeyne Poole and assisted him with the pink letter.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559a0827afdac30cbfce34be",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Ben Plumm",
+                    "theories":[
+                        {
+                            "name":"Ben is descended from Elaena and Aegon IV Targaryen (the Unworthy)",
+                        },
+                    ]
+                },
+                {
+                    "name":"Benjen Stark",
+                    "theories":[
+                        {
+                            "name":"Benjen is disguised as a man with a blue beard and an eye patch....",
+                        },
+                        {
+                            "name":"Benjen was captured by the Others.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55999f9bafdac37696a90a6c",
+                                    "number":"1"
+                                },
+                                {
+                                    "url":"writeup/id/559d98deafdac34b3592c691",
+                                    "number":"2"
+                                },
+                                {
+                                    "url":"writeup/id/559d9a0aafdac34b42494c57",
+                                    "number":"3"
+                                },
+                                {
+                                    "url":"writeup/id/559d9d4dafdac34b54557aaf",
+                                    "number":"4"
+                                },
+                                {
+                                    "url":"writeup/id/55995ba1afdac36fc10c0725",
+                                    "number":"5"
+                                },
+                            ]
+                        },
+                        {
+                            "name":"Benjen gave Lyanna away to Rhaegar during their wedding.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55994e96afdac36e71d97549",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Benjen knew about Lyanna and Rhaegar's romance, and joined the Watch out of guilt due to her death.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599835cafdac37459936b38",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Benjen joined the Night's Watch in preparation for having Jon join later.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559d9a96afdac34b4b892ee9",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Benjen has been helping Bloodraven.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559d9659afdac34b2c76fcf0",
+                                    "number":"1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Brandon Stark (Lord Rickard Stark's eldest son)",
+                    "theories":[
+                        {
+                            "name":"Brandon \"dishonored\" Ashara at the tourney at Harrenhal."
+                        },
+                    ]
+                },
+                {
+                    "name":"Brienne Tarth",
+                    "theories":[
+                        {
+                            "name":"Brienne will forge Lightbringer by killing Cat with Oathkeeper.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55986dceafdac3571bb29f73",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Brienne is descended from Ser Duncan the Tall.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559dae4aafdac34b7cfe6f10",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Brienne is the more beautiful one from Cersei's Valonqar prophesy.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55974689afdac33020531cbd",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Brienne and Pod will meet Howland Reed.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559985efafdac374a1218f45",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Bronn",
+                    "theories":[
+                        {
+                            "name":"Bronn will inherit Stokeworth and Rosby.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5598a960afdac35f1a08cca6",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Bronn was a wildling.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55995dc5afdac37041d80101",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Brynden Rivers (Bloodraven)",
+                    "theories":[
+                        {
+                            "name":"Bloodraven is wrong about being able to communicate with people from the past.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55987399afdac358369193eb",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Bloodraven + Shiera Seastar = Melisandre.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55997dceafdac373ffebaf8e",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Bloodraven skinchanged into Jeor Mormont's raven.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55994924afdac36dffe003f3",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Bloodraven is deceiving Bran to speed up his growth as a greenseer.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599c578afdac37d5fedf99c",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Brynden Tully (the Blackfish)",
+                    "theories":[
+                        {
+                            "name":"The Blackfish is heading to the Vale.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55996158afdac3711e11675e",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"The Blackfish escaped Riverrun with Jeyne Westerling.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5598b0b7afdac3614d689227",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"The Blackfish is hiding in Riverrun.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559dc3f8afdac34bc1263b93",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
             ]
         },
         {
