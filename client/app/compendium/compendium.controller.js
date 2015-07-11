@@ -36,6 +36,14 @@ angular.module('asotafApp')
                     ]
                 },
                 {
+                    "name":"Aeron Greyjoy (Damphair)",
+                    "theories": [
+                        {
+                            "name":"Aeron is going to rally the ironborn on Great Wyk against Euron.",
+                        }
+                    ]
+                },
+                {
                     "name":"Aerys II Targaryen (the Mad King)",
                     "theories": [
                         {
@@ -787,6 +795,128 @@ angular.module('asotafApp')
                                 {
                                     "url":"writeup/id/55a14c02afdac37bdd1e47a8",
                                     "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Eddard Stark (Ned)",
+                    "theories":[
+                        {
+                            "name":"Ned performed a Caesarean section on Lyanna.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a14f0aafdac37c67cd4b8a",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Eddison Tollett (Dolorous Edd)",
+                    "theories":[
+                        {
+                            "name":"Dolorous Edd is cursed.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a158c2afdac37c8303a3bc",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Edmure Tully",
+                    "theories":[
+                        {
+                            "name":"Edmure hates Tom O' Seven Strings.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a159d6afdac37c8cad55f5",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Euron Greyjoy (the Crow's Eye)",
+                    "theories":[
+                        {
+                            "name":"Euron molested Aeron (Damphair).",
+                        },
+                        {
+                            "name":"Euron is baiting the Redwyne fleet into a trap.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55995cedafdac3701691812d",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Euron hired a faceless man to kill Balon.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559cacdaafdac346e4df257e",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Euron is the Corsair King.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599a5c7afdac3785c36e6e0",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Euron's Silence is made out of weirwood.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a162beafdac37d28df4dd1",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Euron killed Gerion Lannister",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599a41dafdac377d9aecf0b",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Euron is attempting to ally with the Faceless Men.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a159d6afdac37c8cad55f5",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Galazza Galare (the Green Grace)",
+                    "theories":[
+                        {
+                            "name":"The Green Grace is the Harpy",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559c87d3afdac34636ee7eff",
+                                    "number":"1"
+                                },
+                                {
+                                    "url":"writeup/id/559985ceafdac37492b2a489",
+                                    "number":"2"
                                 }
                             ]
                         },
