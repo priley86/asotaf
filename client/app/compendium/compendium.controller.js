@@ -607,6 +607,9 @@ angular.module('asotafApp')
                                 }
                             ]
                         },
+                        {
+                            "name":"Cersei pushed Melara down the well.",
+                        },
                     ]
                 },
                 {
@@ -677,6 +680,115 @@ angular.module('asotafApp')
                         },
                         {
                             "name":"Coldhands is Bran the Builder.",
+                        },
+                    ]
+                },
+                {
+                    "name":"Daario Naharis",
+                    "theories":[
+                        {
+                            "name":"Daario is Euron.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55985436afdac34f694cf15f",
+                                    "number":"1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Daemon I Blackfyre",
+                    "theories":[
+                        {
+                            "name":"Daemon is the true Targaryen heir.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a13f0aafdac37b9cdc729a",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Daenerys Targaryen",
+                    "theories":[
+                        {
+                            "name":"Dany will take control of Khal Jhaqo's horde.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a143c8afdac37bc2120fb8",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Dany will marry Euron.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a1418cafdac37bae6f89a3",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Dany will marry Jon Snow.",
+                        },
+                        {
+                            "name":"Dany's house with the red door is in Oldtown.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55988317afdac35b1c166460",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Dany's house with the red door is in the Water Gardens.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559c5369afdac33f0450399f",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Dany's betrayal for love will be Ser Barristan.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a141fcafdac37bb7487ffd",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Domeric Bolton",
+                    "theories":[
+                        {
+                            "name":"Domeric wasn't killed by Ramsay.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a149f1afdac37bd34103b0",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Drogo",
+                    "theories":[
+                        {
+                            "name":"Drogo's blood hatched the dragons.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a14c02afdac37bdd1e47a8",
+                                    "number":"1"
+                                }
+                            ]
                         },
                     ]
                 },
