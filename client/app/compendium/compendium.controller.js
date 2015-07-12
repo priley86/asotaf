@@ -1025,6 +1025,92 @@ angular.module('asotafApp')
                         },
                     ]
                 },
+                {
+                    "name":"Hallis Mollen",
+                    "theories":[
+                        {
+                            "name":"Hallis Mollen is the hooded man in Winterfell.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559750a6afdac3324b2404e6",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Harys Swyft",
+                    "theories":[
+                        {
+                            "name":"Harys will get killed in Braavos.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5595a3f8afdac304b8b0f3f3",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Howland Reed",
+                    "theories":[
+                        {
+                            "name":"Howland is disguising himself as the High Septon.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559749cbafdac330e29b1360",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Howland saw the future in regards to Rhaegar and Lyanna.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55996be8afdac372919d0e55",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Illyrio Mopatis",
+                    "theories":[
+                        {
+                            "name":"Illyrio gave the sword Blackfyre to Young Griff.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599830eafdac37450b4b27c",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Illyrio is a Blackfyre.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55a1dbf6afdac3087d9149c8",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Illyrio is Young Griff's (fAegon's) father.",
+                        },
+                        {
+                            "name":"Illyrio's goal is Braavos, not Westeros.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599a778afdac378f55d9233",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
             ]
         },
         {
