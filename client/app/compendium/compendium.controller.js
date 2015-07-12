@@ -908,7 +908,7 @@ angular.module('asotafApp')
                     "name":"Galazza Galare (the Green Grace)",
                     "theories":[
                         {
-                            "name":"The Green Grace is the Harpy",
+                            "name":"The Green Grace is the Harpy.",
                             "hrefs":[
                                 {
                                     "url":"writeup/id/559c87d3afdac34636ee7eff",
@@ -917,6 +917,109 @@ angular.module('asotafApp')
                                 {
                                     "url":"writeup/id/559985ceafdac37492b2a489",
                                     "number":"2"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Gendry",
+                    "theories":[
+                        {
+                            "name":"Gendry learned how to reforge Valyrian steel from Tobho Mott.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5599939aafdac375b67d40e3",
+                                    "number":"1"
+                                },
+                            ]
+                        },
+                        {
+                            "name":"Gendry will be the hammer of the waters.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55986df5afdac35734dd62c6",
+                                    "number":"1"
+                                },
+                            ]
+                        },
+                        {
+                            "name":"Gendry is the future of house Baratheon.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55987ab8afdac359bbffef5e",
+                                    "number":"1"
+                                },
+                            ]
+                        },
+                        {
+                            "name":"Gendry will use Robert's warhammmer. ",
+                        },
+                    ]
+                },
+                {
+                    "name":"Gerold Dayne (Darkstar)",
+                    "theories":[
+                        {
+                            "name":"Darkstar is working for Doran.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559bdf49afdac33bc219c8c8",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Gerris Drinkwater",
+                    "theories":[
+                        {
+                            "name":"Gerris is lying about what happened to Quentyn.",
+                        },
+                    ]
+                },
+                {
+                    "name":"Ghost of High Heart",
+                    "theories":[
+                        {
+                            "name":"The Ghost of High Heart was the woodswitch that was friends with Jenny of Oldstones.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559960c1afdac3710771cc9d",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"The Ghost of High Heart is a child of the forest.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/559950eeafdac36e80cd1d0a",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                    ]
+                },
+                {
+                    "name":"Gregor Clegane (the Mountain)",
+                    "theories":[
+                        {
+                            "name":"Gregor is Ser Robert Strong.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/5595b61dafdac30685ebc474",
+                                    "number":"1"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"Ser Robert Strong will fight the Hound.",
+                            "hrefs":[
+                                {
+                                    "url":"writeup/id/55994a2dafdac36e266e54b6",
+                                    "number":"1"
                                 }
                             ]
                         },
