@@ -7,7 +7,7 @@
 	{
 		"name": "Aemon's first temptation was a wildling.",
 		"hrefs": [{"url": "writeup/id/55998f46afdac3758acc2ead", "number": "1"}],
-		"tags": ["theories", "Aemon Targaryen", "House Targaryen", "wildlings", "The Wall", "The Night's Watch", "maesters", "vows", "Westeros"]
+		"tags": ["theories", "Aemon Targaryen (maester)", "House Targaryen", "wildlings", "The Wall", "The Night's Watch", "maesters", "vows", "Westeros"]
 	},
 	{
 		"name": "Aerys is the father of Cersei, Jaime, and/or Tyrion.",
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Allyria is the daughter of Ashara and Ned.",
-		"tags": ["theories", "Allyria Dayne", "Ashara Dayne", "Eddard Stark", "House Dayne", "House Stark", "parentage", "Starfall", "bastards"]
+		"tags": ["theories", "Allyria Dayne", "Ashara Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Dayne", "House Stark", "parentage", "Starfall", "bastards"]
 	},
 	{
 		"name": "The father of Alysane's children is Tormund.",
@@ -56,7 +56,7 @@
 	{
 		"name": "Darkstar told Doran about the conspiracy.",
 		"hrefs": [{"url": "writeup/id/559bdf49afdac33bc219c8c8", "number": "1"}],
-		"tags": ["theories", "Arianne Martell", "House Martell", "conspiracies", "spies", "Doran Martell", "Myrcella Baratheon", "House Baratheon", "House Lannister", "Gerold Dayne", "Darkstar", "House Dayne", "High Hermitage", "death", "maiming"]
+		"tags": ["theories", "Gerold Dayne (Darkstar)", "Arianne Martell", "House Martell", "conspiracies", "spies", "Doran Martell", "Myrcella Baratheon", "House Baratheon", "House Lannister", "Gerold Dayne", "Darkstar", "House Dayne", "High Hermitage", "death", "maiming"]
 	},
 	{
 		"name": "No one told Doran about the conspiracy.",
@@ -98,7 +98,7 @@
 			{"url": "writeup/id/55959845afdac3032a3229e0", "number": "1"},
 			{"url": "writeup/id/5595943cafdac302ca49aad7", "number": "2"}
 		],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark", "House Stark", "Jon Snow", "House Targaryen", "Rhaegar Targaryen", "Lyanna Stark", "parentage", "secret identities", "conspiracies", "Tower of Joy"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Jon Snow", "House Targaryen", "Rhaegar Targaryen", "Lyanna Stark", "parentage", "secret identities", "conspiracies", "Tower of Joy"]
 	},
 	{
 		"name": "Ashara is Septa Lemore.",
@@ -107,17 +107,17 @@
 	},
 	{
 		"name": "Brandon \"dishonored\" Ashara at the Tourney at Harrenhal.",
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Brandon Stark", "House Stark", "Tourney at Harrenhal", "Barristan Selmy"]
+		"tags": ["theories", "Brandon Stark (Lord Rickard Stark's eldest son)", "Ashara Dayne", "House Dayne", "Brandon Stark", "House Stark", "Tourney at Harrenhal", "Barristan Selmy"]
 	},
 	{
 		"name": "Ashara had fAegon with Ned.",
 		"hrefs": [{"url": "writeup/id/559955b0afdac36f0f2beba5", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark", "House Stark", "Aegon VI Targaryen", "House Targaryen", "parentage", "secret identities"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Aegon VI Targaryen", "House Targaryen", "parentage", "secret identities"]
 	},
 	{
 		"name": "Ashara had a daughter with Ned.",
 		"hrefs": [{"url": "writeup/id/55987101afdac357d4fd8125", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark", "House Stark", "parentage", "bastards"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "parentage", "bastards"]
 	},
 	{
 		"name": "Rhaegar deflowered Ashara at the Tourney at Harrenhal.",
@@ -127,7 +127,7 @@
 	{
 		"name": "Ned + Ashara = Jon.",
 		"hrefs": [{"url": "writeup/id/5599666fafdac37197c674ba", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark", "House Stark", "Jon Snow", "parentage", "secret identities", "bastards"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Jon Snow", "parentage", "secret identities", "bastards"]
 	},
 	{
 		"name": "Lyanna had twins and Ashara raised one.",
@@ -251,17 +251,17 @@
 	{
 		"name": "The Blackfish is heading to the Vale.",
 		"hrefs": [{"url": "writeup/id/55996158afdac3711e11675e", "number": "1"}],
-		"tags": ["theories", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "The Vale", "missing persons"]
+		"tags": ["theories", "Brynden Tully (the Blackfish)", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "The Vale", "missing persons"]
 	},
 	{
 		"name": "The Blackfish escaped Riverrun with Jeyne Westerling.",
 		"hrefs": [{"url": "writeup/id/5598b0b7afdac3614d689227", "number": "1"}],
-		"tags": ["theories", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "Jeyne Westerling", "House Westerling", "parentage", "Robb Stark", "kings", "inheritance", "missing persons", "secret identities", "conspiracies"]
+		"tags": ["theories", "Brynden Tully (the Blackfish)", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "Jeyne Westerling", "House Westerling", "parentage", "Robb Stark", "kings", "inheritance", "missing persons", "secret identities", "conspiracies"]
 	},
 	{
 		"name": "The Blackfish is hiding in Riverrun.",
 		"hrefs": [{"url": "writeup/id/559dc3f8afdac34bc1263b93", "number": "1"}],
-		"tags": ["theories", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "missing persons", "lies", "bluffs"]
+		"tags": ["theories", "Brynden Tully (the Blackfish)", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "missing persons", "lies", "bluffs"]
 	},
 	{
 		"name": "Catelyn is being affected by the curse of Harrenhal.",
@@ -372,12 +372,12 @@
 	{
 		"name": "Ned performed a Caesarean section on Lyanna.",
 		"hrefs": [{"url":"writeup/id/55a14f0aafdac37c67cd4b8a", "number":"1"}],
-		"tags": ["theories", "Eddard Stark", "House Stark", "Lyanna Stark", "Jon Snow", "death", "maiming", "pregnancy"]
+		"tags": ["theories", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Lyanna Stark", "Jon Snow", "death", "maiming", "pregnancy"]
 	},
 	{
 		"name": "Dolorous Edd is cursed.",
 		"hrefs": [{"url":"writeup/id/55a158c2afdac37c8303a3bc", "number":"1"}],
-		"tags": ["theories", "Eddison Tollett", "House Tollet", "curses", "Night's Watch members"]
+		"tags": ["theories", "Eddison Tollett (Dolorous Edd)", "Eddison Tollett", "House Tollet", "curses", "Night's Watch members"]
 	},
 	{
 		"name": "Edmure hates Tom O' Seven Strings.",
@@ -386,7 +386,7 @@
 	},
 	{
 		"name": "Euron molested Aeron (Damphair).",
-		"tags": ["theories", "Euron Greyjoy", "House Greyjoy", "Aeron Greyjoy", "Aeron Damphair", "priests", "abuse", "kings"]
+		"tags": ["theories", "Euron Greyjoy", "House Greyjoy", "Aeron Greyjoy", "Aeron Damphair", "Aeron Greyjoy (Damphair)", "priests", "abuse", "kings"]
 	},
 	{
 		"name": "Euron is baiting the Redwyne fleet into a trap.",
@@ -423,7 +423,7 @@
 		"hrefs": [{"url":"writeup/id/559c87d3afdac34636ee7eff", "number":"1"},
 			{"url":"writeup/id/559985ceafdac37492b2a489", "number":"2"}
 		],
-		"tags": ["theories", "Galazza Galare", "Green Grace", "Harpy", "Meereen", "secret identities", "murder", "death", "Unsullied"]
+		"tags": ["theories", "Galazza Galare (the Green Grace)", "Galazza Galare", "Green Grace", "Harpy", "Meereen", "secret identities", "murder", "death", "Unsullied"]
 	},
 	{
 		"name": "Gendry learned how to reforge Valyrian steel from Tobho Mott.",
@@ -447,7 +447,7 @@
 	{
 		"name": "Darkstar is working for Doran.",
 		"hrefs": [{"url":"writeup/id/559bdf49afdac33bc219c8c8", "number":"1"}],
-		"tags": ["theories", "Gerold Dayne", "Darkstar", "House Dayne", "High Hermitage", "Doran Martell", "House Martell", "conspiracies", "lies", "Myrcella Baratheon", "maiming"]
+		"tags": ["theories", "Gerold Dayne (Darkstar)", "Gerold Dayne", "Darkstar", "House Dayne", "High Hermitage", "Doran Martell", "House Martell", "conspiracies", "lies", "Myrcella Baratheon", "maiming"]
 	},
 	{
 		"name": "Gerris is lying about what happened to Quentyn.",
@@ -511,5 +511,13 @@
 		"name": "Illyrio's goal is Braavos, not Westeros.",
 		"hrefs": [{"url":"writeup/id/5599a778afdac378f55d9233", "number":"1"}],
 		"tags": ["theories", "Illyrio Mopatis", "Pentos", "magisters", "Braavos", "Westeros", "conspiracies", "lies"]
+	},
+	{
+		"name": "Aeron is going to rally the ironborn on Great Wyk against Euron.",
+		"tags": ["theories", "Damphair", "Aeron Greyjoy (Damphair)", "Euron Greyjoy", "Great Wyk", "ironborn"]
+	},
+	{
+		"name": "Cersei pushed Melara down the well.",
+		"tags": ["theories", "Cersei Lannister", "Melara", "Maggy the Frog", "prophesy"]
 	}
 ]

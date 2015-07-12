@@ -9,6 +9,9 @@ angular.module('asotafApp')
       'title': 'Compendium',
       'link': '/compendium'
     },{
+      'title': 'Explorer',
+      'link': '/explorer'
+    },{
       'title': 'Tinfoil',
       'link': '/tinfoil'
     }];

@@ -9,10 +9,11 @@
         <h3>{{topic.name}}</h3>
           <ul>
             <li ng-repeat="subtopic in topic.subtopics">
-              <h5>{{subtopic.name}}</h5>
+              <h5>{{subtopic}}</h5>
                 <ul>
-                  <li ng-repeat="theory in subtopic.theories">
+                  <li ng-repeat="theory in theories | filter:subtopic">
                     <p>{{theory.name}} [ <i ng-repeat="href in theory.hrefs"><a href="{{href.url}}">{{href.number}}</a>&nbsp;</i>]</p>
+                    
                   </li>
                 </ul>
             </li>
