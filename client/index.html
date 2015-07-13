@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="app/app.css">
       <!-- injector:css -->
       <link rel="stylesheet" href="app/app.css">
+      <link rel="stylesheet" href="app/explorer/explorer.css">
       <link rel="stylesheet" href="app/main/main.css">
       <link rel="stylesheet" href="app/search/search.css">
       <link rel="stylesheet" href="app/writeup/writeup.css">
@@ -59,7 +60,8 @@
       <script src="bower_components/angular-cookies/angular-cookies.js"></script>
       <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
       <script src="bower_components/angular-route/angular-route.js"></script>
-      <script src="bower_components/lodash/dist/lodash.compat.js"></script>
+      <script src="bower_components/lodash/lodash.js"></script>
+      <script src="bower_components/chroma-js/chroma.js"></script>
       <!-- endbower -->
     <!-- endbuild -->
 
@@ -68,8 +70,12 @@
           <!-- injector:js -->
           <script src="app/compendium/compendium.controller.js"></script>
           <script src="app/compendium/compendium.js"></script>
+          <script src="app/explorer/d3.monkeypatched.js"></script>
+          <script src="app/explorer/d3plus.monkeypatched.js"></script>
           <script src="app/explorer/explorer.controller.js"></script>
           <script src="app/explorer/explorer.js"></script>
+          <script src="app/explorer/explorer.main.js"></script>
+          <script src="app/explorer/fisheye.js"></script>
           <script src="app/main/main.controller.js"></script>
           <script src="app/main/main.js"></script>
           <script src="app/search/search.controller.js"></script>
