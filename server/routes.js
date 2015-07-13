@@ -21,7 +21,7 @@ module.exports = function(app) {
     .get(function(req, res) {
 
       // Test route for explorer
-      if (req.originalUrl.indexOf('/explorer') !== -1 || req.headers.referer.indexOf('/explorer') !== -1) {
+      if (req.originalUrl.indexOf('/explorer') !== -1 || (req.headers.referer && req.headers.referer.indexOf('/explorer') !== -1)) {
           var path = req.originalUrl
           if (path == '/explorer') {path = 'index.html'}
           res.sendfile(app.get('appPath') + '/explorer/' + path)
