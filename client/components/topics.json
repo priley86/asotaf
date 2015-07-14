@@ -216,7 +216,7 @@
 	{
 		"name": "Brienne and Pod will meet Howland Reed.",
 		"hrefs": [{"url": "writeup/id/559985efafdac374a1218f45", "number": "1"}],
-		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Podrick Payne", "House Payne", "squires", "Howland Reed", "House Reed"]
+		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Podrick Payne", "House Payne", "squires", "Howland Reed", "House Reed", "Jaime Lannister"]
 	},
 	{
 		"name": "Bronn will inherit Stokeworth and Rosby.",
@@ -519,5 +519,45 @@
 	{
 		"name": "Cersei pushed Melara down the well.",
 		"tags": ["theories", "Cersei Lannister", "Melara", "Maggy the Frog", "prophesy"]
+	},
+	{
+		"name": "Jaime's dream while sleeping on weirwood was sent.",
+		"hrefs": [{"url":"writeup/id/55997a12afdac373bd3cae4f", "number":"1"}],
+		"tags": ["theories", "Jaime Lannister", "dreams", "prophesy"]
+	},
+	{
+		"name": "Jaime is the white lion in Dany's House of the Undying vision.",
+		"hrefs": [{"url":"writeup/id/5599a68dafdac378a3110152", "number":"1"}],
+		"tags": ["theories", "Jaime Lannister", "lion", "prophesy", "Daenerys Targaryen", "House of the Undying"]
+	},
+	{
+		"name": "Jaime will lead the Brotherhood Without Banners.",
+		"hrefs": [{"url":"writeup/id/55987551afdac358f61c8256", "number":"1"}],
+		"tags": ["theories", "Jaime Lannister", "Brotherhood Without Banners", "justice", "Riverlands"]
+	},
+	{
+		"name": "Jalabhar is a bastard of Jhala.",
+		"hrefs": [{"url":"writeup/id/55987551afdac358f61c8256", "number":"1"}],
+		"tags": ["theories", "Jalabhar Xho", "Jhala", "Summer Isles"]
+	},
+	{
+		"name": "Jalabhar Xho lost his homeland in a ritualized war.",
+		"hrefs": [{"url":"writeup/id/55986f1bafdac3573dfe2db6", "number":"1"}],
+		"tags": ["theories", "Jalabhar Xho", "Jhala", "Summer Isles"]
+	},
+	{
+		"name": "Janos Slynt knew about Ned's beheading.",
+		"hrefs": [{"url":"writeup/id/55a47404afdac32585dce97e", "number":"1"}],
+		"tags": ["theories", "Janos Slynt", "King's Landing", "Peter Baelish"]
+	},
+	{
+		"name": "Jaqen's target in King's Landing was Ned Stark.",
+		"hrefs": [{"url":"writeup/id/55a47404afdac32585dce97e", "number":"1"}],
+		"tags": ["theories", "Jaqen H'gar", "King's Landing", "Eddard Stark"]
+	},
+	{
+		"name": "Robb's letter went to Oldtown.",
+		"hrefs": [{"url":"writeup/id/559869a1afdac35526d8a704", "number":"1"}],
+		"tags": ["theories", "Jason Mallister", "Oldtown", "Robb Stark"]
 	}
 ]

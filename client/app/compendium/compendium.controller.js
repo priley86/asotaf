@@ -52,6 +52,11 @@ angular.module('asotafApp')
         "Harys Swyft",
         "Howland Reed",
         "Illyrio Mopatis",
+        "Jaime Lannister",
+        "Jalabhar Xho",
+        "Janos Slynt",
+        "Jaqen H'gar",
+        "Jason Mallister"
     ];
     
     var houses = [
