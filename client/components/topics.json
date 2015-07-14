@@ -2,7 +2,7 @@
 	{
 		"name": "Bittersteel is the father of the female Blackfyre line.",
 		"hrefs": [{"url": "writeup/id/559b26d0afdac333fc1d540f", "number": "1"}],
-		"tags": ["theories", "Aegor Rivers (Bittersteel)", "Bittersteel", "Aegor Rivers", "House Targaryen", "Great Bastards", "Blackfyre", "parentage", "bastards", "Essos"]
+		"tags": ["theories", "Aegor Rivers (Bittersteel)", "House Targaryen", "Great Bastards", "Blackfyre", "parentage", "bastards", "Essos"]
 	},
 	{
 		"name": "Aemon's first temptation was a wildling.",
@@ -12,26 +12,26 @@
 	{
 		"name": "Aerys is the father of Cersei, Jaime, and/or Tyrion.",
 		"hrefs": [{"url": "writeup/id/55974407afdac32fdf27dfb2", "number": "1"}],
-		"tags": ["theories", "Aerys II Targaryen", "The Mad King", "House Targaryen", "House Lannister", "Tywin Lannister", "Joanna Lannister", "Jaime Lannister", "Cersei Lannister", "Tyrion Lannister", "parentage", "Westeros"]
+		"tags": ["theories", "Aerys II Targaryen (the Mad King)", "House Targaryen", "House Lannister", "Tywin Lannister", "Joanna Lannister", "Jaime Lannister (the Kingslayer)", "Cersei Lannister", "Tyrion Lannister", "parentage", "Westeros"]
 	},
 	{
 		"name": "Cersei is the next Aerys.",
 		"hrefs": [{"url": "writeup/id/5599a663afdac378925b9c18", "number": "1"}],
-		"tags": ["theories", "Cersei Lannister", "Aerys II Targaryen", "The Mad King", "wildfire", "King's Landing", "madness", "parentage", "Westeros", "House Targaryen", "House Lannister", "death"]
+		"tags": ["theories", "Cersei Lannister", "Aerys II Targaryen (the Mad King)", "wildfire", "King's Landing", "madness", "parentage", "Westeros", "House Targaryen", "House Lannister", "death"]
 	},
 	{
 		"name": "Aerys caused the Others to come.",
 		"hrefs": [{"url": "writeup/id/559867f2afdac3548f473479", "number": "1"}],
-		"tags": ["theories", "Aerys II Targaryen", "The Mad King", "The Others", "The Long Night", "Westeros", "House Targaryen", "death"]
+		"tags": ["theories", "Aerys II Targaryen (the Mad King)", "The Others", "The Long Night", "Westeros", "House Targaryen", "death"]
 	},
 	{
 		"name": "Aerys will save Westeros from the Long Night.",
 		"hrefs": [{"url": "writeup/id/5599af53afdac37b4ee80712", "number": "1"}],
-		"tags": ["theories", "Aerys II Targaryen", "The Mad King", "The Long Night", "Westeros", "House Targaryen", "death"]
+		"tags": ["theories", "Aerys II Targaryen (the Mad King)", "The Long Night", "Westeros", "House Targaryen", "death"]
 	},
 	{
 		"name": "Allyria is the daughter of Ashara and Ned.",
-		"tags": ["theories", "Allyria Dayne", "Ashara Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Dayne", "House Stark", "parentage", "Starfall", "bastards"]
+		"tags": ["theories", "Allyria Dayne", "Ashara Dayne", "Eddard Stark (Ned)", "House Dayne", "House Stark", "parentage", "Starfall", "bastards"]
 	},
 	{
 		"name": "The father of Alysane's children is Tormund.",
@@ -51,12 +51,12 @@
 	{
 		"name": "Sylva told Doran about the conspiracy.",
 		"hrefs": [{"url": "writeup/id/559c3bdaafdac33d94e77712", "number": "1"}],
-		"tags": ["theories", "Arianne Martell", "House Martell", "conspiracies", "spies", "Doran Martell", "Myrcella Baratheon", "House Baratheon", "House Lannister", "Spotted Sylva", "House Santagar", "House Estermont", "death", "maiming"]
+		"tags": ["theories", "Arianne Martell", "House Martell", "conspiracies", "spies", "Doran Martell", "Myrcella Baratheon", "House Baratheon", "House Lannister", "Sylva Santagar (Spotted Sylva)", "House Santagar", "House Estermont", "death", "maiming"]
 	},
 	{
 		"name": "Darkstar told Doran about the conspiracy.",
 		"hrefs": [{"url": "writeup/id/559bdf49afdac33bc219c8c8", "number": "1"}],
-		"tags": ["theories", "Gerold Dayne (Darkstar)", "Arianne Martell", "House Martell", "conspiracies", "spies", "Doran Martell", "Myrcella Baratheon", "House Baratheon", "House Lannister", "Gerold Dayne", "Darkstar", "House Dayne", "High Hermitage", "death", "maiming"]
+		"tags": ["theories", "Gerold Dayne (Darkstar)", "Arianne Martell", "House Martell", "conspiracies", "spies", "Doran Martell", "Myrcella Baratheon", "House Baratheon", "House Lannister", "House Dayne", "High Hermitage", "death", "maiming"]
 	},
 	{
 		"name": "No one told Doran about the conspiracy.",
@@ -66,7 +66,7 @@
 	{
 		"name": "Arya will die and warg into Nymeria.",
 		"hrefs": [{"url": "writeup/id/559c4074afdac33db983a7c4", "number": "1"}],
-		"tags": ["theories", "Arya Stark", "House Stark", "death", "direwolves", "Nymeria", "skinchangers", "resurrection", "second life", "assassins"]
+		"tags": ["theories", "Arya Stark", "House Stark", "death", "direwolves", "Nymeria (direwolf)", "skinchangers", "resurrection", "second life", "assassins"]
 	},
 	{
 		"name": "Arya will kill Qyburn.",
@@ -90,7 +90,7 @@
 	{
 		"name": "Asha is pregnant.",
 		"hrefs": [{"url": "writeup/id/559c4a60afdac33dd5630150", "number": "1"}],
-		"tags": ["theories", "Asha Greyjoy", "Yara Greyjoy", "House Greyjoy", "pregnancy"]
+		"tags": ["theories", "Asha Greyjoy (Yara Greyjoy)", "House Greyjoy", "pregnancy"]
 	},
 	{
 		"name": "Ashara helped Ned cover-up Jon's parentage.",
@@ -98,26 +98,26 @@
 			{"url": "writeup/id/55959845afdac3032a3229e0", "number": "1"},
 			{"url": "writeup/id/5595943cafdac302ca49aad7", "number": "2"}
 		],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Jon Snow", "House Targaryen", "Rhaegar Targaryen", "Lyanna Stark", "parentage", "secret identities", "conspiracies", "Tower of Joy"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "House Stark", "Jon Snow", "House Targaryen", "Rhaegar Targaryen", "Lyanna Stark", "parentage", "secret identities", "conspiracies", "Tower of Joy"]
 	},
 	{
 		"name": "Ashara is Septa Lemore.",
 		"hrefs": [{"url": "writeup/id/5595b27fafdac3063f1ee3b7", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "secret identities", "Septa Lemore"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "secret identities", "Lemore (septa)", "septas", "Faith of the Seven"]
 	},
 	{
 		"name": "Brandon \"dishonored\" Ashara at the Tourney at Harrenhal.",
-		"tags": ["theories", "Brandon Stark (Lord Rickard Stark's eldest son)", "Ashara Dayne", "House Dayne", "Brandon Stark", "House Stark", "Tourney at Harrenhal", "Barristan Selmy"]
+		"tags": ["theories", "Brandon Stark (son of Rickard Stark)", "Ashara Dayne", "House Dayne", "House Stark", "Tourney at Harrenhal", "Barristan Selmy"]
 	},
 	{
 		"name": "Ashara had fAegon with Ned.",
 		"hrefs": [{"url": "writeup/id/559955b0afdac36f0f2beba5", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Aegon VI Targaryen", "House Targaryen", "parentage", "secret identities"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "House Stark", "Aegon VI Targaryen", "House Targaryen", "parentage", "secret identities"]
 	},
 	{
 		"name": "Ashara had a daughter with Ned.",
 		"hrefs": [{"url": "writeup/id/55987101afdac357d4fd8125", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "parentage", "bastards"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "House Stark", "parentage", "bastards"]
 	},
 	{
 		"name": "Rhaegar deflowered Ashara at the Tourney at Harrenhal.",
@@ -127,7 +127,7 @@
 	{
 		"name": "Ned + Ashara = Jon.",
 		"hrefs": [{"url": "writeup/id/5599666fafdac37197c674ba", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Jon Snow", "parentage", "secret identities", "bastards"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Eddard Stark (Ned)", "House Stark", "Jon Snow", "parentage", "secret identities", "bastards"]
 	},
 	{
 		"name": "Lyanna had twins and Ashara raised one.",
@@ -137,7 +137,7 @@
 	{
 		"name": "Aerys + Ashara = Daenerys",
 		"hrefs": [{"url": "writeup/id/559c5369afdac33f0450399f", "number": "1"}],
-		"tags": ["theories", "Ashara Dayne", "House Dayne", "Aerys II Targaryen", "House Targaryen", "The Mad King", "Daenerys Targaryen", "parentage", "secret identities", "bastards"]
+		"tags": ["theories", "Ashara Dayne", "House Dayne", "Aerys II Targaryen (the Mad King)", "House Targaryen", "Daenerys Targaryen", "parentage", "secret identities", "bastards"]
 	},
 	{
 		"name": "Howland + Ashara = Meera and Jojen",
@@ -147,21 +147,21 @@
 	{
 		"name": "Aurane is headed to Meereen.",
 		"hrefs": [{"url": "writeup/id/559c542dafdac33f2f76c629", "number": "1"}],
-		"tags": ["theories", "Aurane Waters", "House Velaryon", "Daenerys Targaryen", "House Targaryen", "Master of Ships", "Meereen", "royal fleet", "pirates", "bastards", "turncloaks"]
+		"tags": ["theories", "Aurane Waters", "House Velaryon", "Daenerys Targaryen", "House Targaryen", "Masters of Ships", "Meereen", "navies", "pirates", "bastards", "turncloaks"]
 	},
 	{
 		"name": "Balon was killed by a Faceless Man.",
 		"hrefs": [{"url": "writeup/id/559cacdaafdac346e4df257e", "number": "1"}],
-		"tags": ["theories", "Balon Greyjoy", "House Greyjoy", "Faceless Men", "dragon eggs", "assassins", "murder", "death", "Euron Greyjoy", "kinslayers", "kinslaying", "kingslayers", "kingslaying", "War of Five Kings", "kings", "Iron Islands"]
+		"tags": ["theories", "Balon Greyjoy", "House Greyjoy", "Faceless Men", "dragon eggs", "assassins", "murder", "death", "Euron Greyjoy", "kinslaying", "kingslaying", "War of Five Kings", "kings", "Iron Islands"]
 	},
 	{
 		"name": "Lady Dustin worked with Mance to free Jeyne Poole and assisted him with the pink letter.",
 		"hrefs": [{"url": "writeup/id/559a0827afdac30cbfce34be", "number": "1"}],
-		"tags": ["theories", "Barbrey Dustin", "House Dustin", "House Ryswell", "Mance Rayder", "Jeyne Poole", "Arya", "secret identities", "pink letter", "War of Five Kings", "Stannis Baratheon", "House Baratheon", "Theon Greyjoy", "House Greyjoy", "Little Walder Frey", "Big Walder Frey", "House Frey", "murder", "conspiracies", "House Bolton", "Roose Bolton", "Ramsay Snow", "Winterfell", "crypts", "Abel", "kings", "snowmen", "warm cloak"]
+		"tags": ["theories", "Barbrey Dustin", "House Dustin", "House Ryswell", "Mance Rayder", "Jeyne Poole", "Arya Stark", "secret identities", "pink letter", "War of Five Kings", "Stannis Baratheon", "House Baratheon", "Theon Greyjoy", "House Greyjoy", "Walder Frey (Little Walder)", "Walder Frey (Big Walder)", "House Frey", "murder", "conspiracies", "House Bolton", "Roose Bolton", "Ramsay Snow (Ramsay Bolton)", "Winterfell", "crypts", "Abel", "kings", "snowmen", "warm cloak"]
 	},
 	{
 		"name": "Brown Ben Plumm is descended from Elaena and Aegon IV Targaryen (the Unworthy)",
-		"tags": ["theories", "Brown Ben Plumm", "House Plumm", "sellswords", "Meereen", "Second Sons", "House Targaryen", "Aegon IV Targaryen", "Aegon the Unworthy", "Elaena Targaryen", "secret identities", "parentage"]
+		"tags": ["theories", "Ben Plumm (Brown Ben Plumm)", "House Plumm", "sellswords", "Meereen", "Second Sons", "House Targaryen", "Aegon IV Targaryen (Aegon the Unworthy) (Aegon the Unworthy)", "Elaena Targaryen", "secret identities", "parentage"]
 	},
 	{
 		"name": "Benjen is disguised as a man with a blue beard and an eye patch....",
@@ -196,27 +196,27 @@
 	{
 		"name": "Benjen has been helping Bloodraven.",
 		"hrefs": [{"url": "writeup/id/559d9659afdac34b2c76fcf0", "number": "1"}],
-		"tags": ["theories", "Benjen Stark", "House Stark", "The Wall", "The Night's Watch", "rangers", "Bloodraven", "Brynden Rivers", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Long Night", "crows", "Coldhands", "missing persons", "bastards", "Great Bastards"]
+		"tags": ["theories", "Benjen Stark", "House Stark", "The Wall", "The Night's Watch", "rangers", "Brynden Rivers (Bloodraven)", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Long Night", "crows", "Coldhands", "missing persons", "bastards", "Great Bastards"]
 	},
 	{
 		"name": "Brienne will forge Lightbringer by killing Cat with Oathkeeper.",
 		"hrefs": [{"url": "writeup/id/55986dceafdac3571bb29f73", "number": "1"}],
-		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Catelyn Stark", "House Stark", "Lady Stoneheart", "Lightbringer", "Oathkeeper", "Azor Ahai", "secret identities", "prophecies", "forging of Lightbringer", "murder", "Brotherhood Without Banners", "vows"]
+		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Catelyn Stark", "House Stark", "Stoneheart", "Lightbringer", "Oathkeeper", "Azor Ahai", "secret identities", "prophecies", "forging of Lightbringer", "murder", "Brotherhood Without Banners", "vows", "weapons", "Valyrian steel"]
 	},
 	{
 		"name": "Brienne is descended from Ser Duncan the Tall.",
 		"hrefs": [{"url": "writeup/id/559dae4aafdac34b7cfe6f10", "number": "1"}],
-		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Duncan the Tall", "Lord Commanders of the Kingsguard", "Kingsguard members", "parentage", "Dunk & Egg"]
+		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Duncan the Tall", "Lord Commanders of the Kingsguard", "Kingsguard", "parentage"]
 	},
 	{
 		"name": "Brienne is the more beautiful one from Cersei's Valonqar prophesy.",
 		"hrefs": [{"url": "writeup/id/55974689afdac33020531cbd", "number": "1"}],
-		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Cersei Lannister", "House Lannister", "Valonqar", "prophecies", "queens", "death", "Jaime Lannister"]
+		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Cersei Lannister", "House Lannister", "Valonqar", "prophecies", "queens", "death", "Jaime Lannister (the Kingslayer)"]
 	},
 	{
 		"name": "Brienne and Pod will meet Howland Reed.",
 		"hrefs": [{"url": "writeup/id/559985efafdac374a1218f45", "number": "1"}],
-		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Podrick Payne", "House Payne", "squires", "Howland Reed", "House Reed", "Jaime Lannister"]
+		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Podrick Payne (Pod)", "House Payne", "squires", "Howland Reed", "House Reed", "Jaime Lannister (the Kingslayer)"]
 	},
 	{
 		"name": "Bronn will inherit Stokeworth and Rosby.",
@@ -231,42 +231,42 @@
 	{
 		"name": "Bloodraven is wrong about being able to communicate with people from the past.",
 		"hrefs": [{"url": "writeup/id/55987399afdac358369193eb", "number": "1"}],
-		"tags": ["theories", "Bloodraven", "Brynden Rivers", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Wall", "The Night's Watch", "rangers", "The Long Night", "crows", "missing persons", "bastards", "Great Bastards", "The Old Gods", "weirwoods", "time travel"]
+		"tags": ["theories", "Brynden Rivers (Bloodraven)", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Wall", "The Night's Watch", "rangers", "The Long Night", "crows", "missing persons", "bastards", "Great Bastards", "The Old Gods", "weirwood", "time travel"]
 	},
 	{
 		"name": "Bloodraven + Shiera Seastar = Melisandre.",
 		"hrefs": [{"url": "writeup/id/55997dceafdac373ffebaf8e", "number": "1"}],
-		"tags": ["theories", "Bloodraven", "Brynden Rivers", "sorcerers", "skinchangers", "bastards", "Great Bastards", "Shiera Seastar", "House Targaryen", "Melisandre", "Asshai", "parentage", "secret identities"]
+		"tags": ["theories", "Brynden Rivers (Bloodraven)", "sorcerers", "skinchangers", "bastards", "Great Bastards", "Shiera Seastar", "House Targaryen", "Melisandre", "Asshai", "parentage", "secret identities"]
 	},
 	{
 		"name": "Bloodraven skinchanged into Jeor Mormont's raven.",
 		"hrefs": [{"url": "writeup/id/55994924afdac36dffe003f3", "number": "1"}],
-		"tags": ["theories", "Bloodraven", "Brynden Rivers", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Wall", "The Night's Watch", "rangers", "The Long Night", "crows", "bastards", "Great Bastards", "The Old Gods", "weirwoods", "Jeor Mormont", "ravens", "secret identities"]
+		"tags": ["theories", "Brynden Rivers (Bloodraven)", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Wall", "The Night's Watch", "rangers", "The Long Night", "crows", "bastards", "Great Bastards", "The Old Gods", "weirwood", "Jeor Mormont", "ravens", "secret identities"]
 	},
 	{
 		"name": "Bloodraven is deceiving Bran to speed up his growth as a greenseer.",
 		"hrefs": [{"url": "writeup/id/5599c578afdac37d5fedf99c", "number": "1"}],
-		"tags": ["theories", "Bloodraven", "Brynden Rivers", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Wall", "The Night's Watch", "rangers", "The Long Night", "crows", "bastards", "Great Bastards", "The Old Gods", "weirwoods", "greenseers", "Bran Stark", "House Stark", "lies"]
+		"tags": ["theories", "Brynden Rivers (Bloodraven)", "sorcerers", "skinchangers", "Lord Commanders of the Night's Watch", "The Wall", "The Night's Watch", "rangers", "The Long Night", "crows", "bastards", "Great Bastards", "The Old Gods", "weirwood", "greenseers", "Bran Stark", "House Stark", "lies"]
 	},
 	{
 		"name": "The Blackfish is heading to the Vale.",
 		"hrefs": [{"url": "writeup/id/55996158afdac3711e11675e", "number": "1"}],
-		"tags": ["theories", "Brynden Tully (the Blackfish)", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "The Vale", "missing persons"]
+		"tags": ["theories", "Brynden Tully (the Blackfish)", "House Tully", "Riverrun", "sieges", "The Vale", "missing persons"]
 	},
 	{
 		"name": "The Blackfish escaped Riverrun with Jeyne Westerling.",
 		"hrefs": [{"url": "writeup/id/5598b0b7afdac3614d689227", "number": "1"}],
-		"tags": ["theories", "Brynden Tully (the Blackfish)", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "Jeyne Westerling", "House Westerling", "parentage", "Robb Stark", "kings", "inheritance", "missing persons", "secret identities", "conspiracies"]
+		"tags": ["theories", "Brynden Tully (the Blackfish)", "House Tully", "Riverrun", "sieges", "Jeyne Westerling", "House Westerling", "parentage", "Robb Stark (the Young Wolf)", "kings", "inheritance", "missing persons", "secret identities", "conspiracies"]
 	},
 	{
 		"name": "The Blackfish is hiding in Riverrun.",
 		"hrefs": [{"url": "writeup/id/559dc3f8afdac34bc1263b93", "number": "1"}],
-		"tags": ["theories", "Brynden Tully (the Blackfish)", "Brynden Tully", "The Blackfish", "House Tully", "Riverrun", "sieges", "missing persons", "lies", "bluffs"]
+		"tags": ["theories", "Brynden Tully (the Blackfish)", "House Tully", "Riverrun", "sieges", "missing persons", "lies", "bluffs"]
 	},
 	{
 		"name": "Catelyn is being affected by the curse of Harrenhal.",
 		"hrefs": [{"url": "writeup/id/559dde49afdac34cde5ad16e", "number": "1"}],
-		"tags": ["theories", "Catelyn Stark", "House Stark", "Lady Stoneheart", "Harrenhal", "curses", "death", "Brotherhood Without Banners"]
+		"tags": ["theories", "Catelyn Stark", "House Stark", "Stoneheart", "Harrenhal", "curses", "death", "Brotherhood Without Banners"]
 	},
 	{
 		"name": "Cersei will burn King's Landing.",
@@ -276,7 +276,7 @@
 	{
 		"name": "Jaime is the Valonqar and will kill Cersei.",
 		"hrefs": [{"url": "writeup/id/55998975afdac375191fd246", "number": "1"}],
-		"tags": ["theories", "Jaime Lannister", "House Lannister", "Cersei Lannister", "Valonqar", "prophecies", "death", "murder", "twins", "kinslaying", "kinslayers"]
+		"tags": ["theories", "Jaime Lannister (the Kingslayer)", "House Lannister", "Cersei Lannister", "Valonqar", "prophecies", "death", "murder", "twins", "kinslaying"]
 	},
 	{
 		"name": "Cersei is pregnant and will have an abortion.",
@@ -291,17 +291,17 @@
 	{
 		"name": "Coldhands is from Skagos.",
 		"hrefs": [{"url": "writeup/id/5599b5b0afdac37c79dcf740", "number": "1"}],
-		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "Night's Watch members", "The Others", "The Long Night", "secret identities", "Skagos", "stone"]
+		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "The Others", "The Long Night", "secret identities", "Skagos", "stone"]
 	},
 	{
 		"name": "Coldhands is Ser Duncan the Tall.",
 		"hrefs": [{"url": "writeup/id/55997ee0afdac3741123f948", "number": "1"}],
-		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "Night's Watch members", "The Others", "The Long Night", "secret identities", "Duncan the Tall", "Lord Commanders of the Kingsguard", "Kingsguard members"]
+		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "The Others", "The Long Night", "secret identities", "Duncan the Tall", "Lord Commanders of the Kingsguard", "Kingsguard"]
 	},
 	{
 		"name": "Coldhands is Craster's father.",
 		"hrefs": [{"url": "writeup/id/559deac8afdac34e86fb7049", "number": "1"}],
-		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "Night's Watch members", "The Others", "The Long Night", "secret identities", "parentage", "Craster"]
+		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "The Others", "The Long Night", "secret identities", "parentage", "Craster"]
 	},
 	{
 		"name": "Coldhands is the Night's King.",
@@ -309,16 +309,16 @@
 			{"url": "writeup/id/5599743dafdac37345290229", "number": "1"},
 			{"url": "writeup/id/559c77cbafdac3460416bce8", "number": "2"}
 		],
-		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "Night's Watch members", "The Others", "The Long Night", "secret identities", "Night's King"]
+		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "The Others", "The Long Night", "secret identities", "Night's King"]
 	},
 	{
 		"name": "Coldhands is the last hero.",
 		"hrefs": [{"url": "writeup/id/5598ae7bafdac360ed872664", "number": "1"}],
-		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "Night's Watch members", "The Others", "The Long Night", "secret identities", "The Last Hero"]
+		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "The Others", "The Long Night", "secret identities", "The Last Hero"]
 	},
 	{
 		"name": "Coldhands is Bran the Builder.",
-		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "Night's Watch members", "The Others", "The Long Night", "secret identities", "Bran the Builder", "House Stark"]
+		"tags": ["theories", "Coldhands", "rangers", "wights", "The Night's Watch", "The Others", "The Long Night", "secret identities", "Bran the Builder", "House Stark"]
 	},
 	{
 		"name": "Daario is Euron.",
@@ -328,12 +328,12 @@
 	{
 		"name": "Daemon is the true Targaryen heir.",
 		"hrefs": [{"url":"writeup/id/55a13f0aafdac37b9cdc729a", "number":"1"}],
-		"tags": ["theories", "Daemon I Blackfyre", "Daemon Waters", "House Blackfyre", "House Targaryen", "Great Bastards", "bastards", "Black Dragon", "Blackfyre Rebellion", "parentage", "Aegon IV Targaryen", "Aegon the Unworthy", "Daena Targaryen", "kings"]
+		"tags": ["theories", "Daemon I Blackfyre (the Black Dragon)", "Daemon Waters", "House Blackfyre", "House Targaryen", "Great Bastards", "bastards", "Blackfyre Rebellion", "parentage", "Aegon IV Targaryen (Aegon the Unworthy)", "Daena Targaryen", "kings"]
 	},
 	{
 		"name": "Dany will take control of Khal Jhaqo's horde.",
 		"hrefs": [{"url":"writeup/id/55a143c8afdac37bc2120fb8", "number":"1"}],
-		"tags": ["theories", "Daenerys Targaryen", "House Targaryen", "Meereen", "Dothraki", "Khal Jhaqo", "murder", "death", "dragons"]
+		"tags": ["theories", "Daenerys Targaryen", "House Targaryen", "Meereen", "Dothraki", "Jhaqo", "murder", "death", "dragons", "kings", "khals"]
 	},
 	{
 		"name": "Dany will marry Euron.",
@@ -357,12 +357,12 @@
 	{
 		"name": "Dany's betrayal for love will be Ser Barristan.",
 		"hrefs": [{"url":"writeup/id/55a141fcafdac37bb7487ffd", "number":"1"}],
-		"tags": ["theories", "Daenerys Targaryen", "House Targaryen", "prophecies", "betrayals", "Barristan Selmy", "House Selmy", "Lord Commanders of the Kingsguard", "Hands"]
+		"tags": ["theories", "Daenerys Targaryen", "House Targaryen", "prophecies", "betrayals", "Barristan Selmy", "House Selmy", "Lord Commanders of the Kingsguard", "Kingsguard", "Hands"]
 	},
 	{
 		"name": "Domeric wasn't killed by Ramsay.",
 		"hrefs": [{"url":"writeup/id/55a149f1afdac37bd34103b0", "number":"1"}],
-		"tags": ["theories", "Domeric Bolton", "House Bolton", "Ramsay Snow", "Roose Bolton", "murder", "death", "poison", "conspiracies", "lies"]
+		"tags": ["theories", "Domeric Bolton", "House Bolton", "Ramsay Snow (Ramsay Bolton)", "Roose Bolton", "murder", "death", "poison", "conspiracies", "lies"]
 	},
 	{
 		"name": "Drogo's blood hatched the dragons.",
@@ -372,21 +372,21 @@
 	{
 		"name": "Ned performed a Caesarean section on Lyanna.",
 		"hrefs": [{"url":"writeup/id/55a14f0aafdac37c67cd4b8a", "number":"1"}],
-		"tags": ["theories", "Eddard Stark (Ned)", "Eddard Stark", "House Stark", "Lyanna Stark", "Jon Snow", "death", "maiming", "pregnancy"]
+		"tags": ["theories", "Eddard Stark (Ned)", "House Stark", "Lyanna Stark", "Jon Snow", "death", "maiming", "pregnancy"]
 	},
 	{
 		"name": "Dolorous Edd is cursed.",
 		"hrefs": [{"url":"writeup/id/55a158c2afdac37c8303a3bc", "number":"1"}],
-		"tags": ["theories", "Eddison Tollett (Dolorous Edd)", "Eddison Tollett", "House Tollet", "curses", "Night's Watch members"]
+		"tags": ["theories", "Eddison Tollett (Dolorous Edd)", "House Tollet", "curses", "The Night's Watch"]
 	},
 	{
 		"name": "Edmure hates Tom O' Seven Strings.",
 		"hrefs": [{"url":"writeup/id/55a159d6afdac37c8cad55f5", "number":"1"}],
-		"tags": ["theories", "Edmure Tully", "House Tully", "Tom Sevenstrings", "bards", "Riverrun", "Brotherhood Without Banners"]
+		"tags": ["theories", "Edmure Tully", "House Tully", "Tom of Sevenstreams (Tom Sevenstrings)", "bards", "Riverrun", "Brotherhood Without Banners"]
 	},
 	{
 		"name": "Euron molested Aeron (Damphair).",
-		"tags": ["theories", "Euron Greyjoy", "House Greyjoy", "Aeron Greyjoy", "Aeron Damphair", "Aeron Greyjoy (Damphair)", "priests", "abuse", "kings"]
+		"tags": ["theories", "Euron Greyjoy", "House Greyjoy", "Aeron Greyjoy (Damphair)", "priests", "abuse", "kings"]
 	},
 	{
 		"name": "Euron is baiting the Redwyne fleet into a trap.",
@@ -423,7 +423,7 @@
 		"hrefs": [{"url":"writeup/id/559c87d3afdac34636ee7eff", "number":"1"},
 			{"url":"writeup/id/559985ceafdac37492b2a489", "number":"2"}
 		],
-		"tags": ["theories", "Galazza Galare (the Green Grace)", "Galazza Galare", "Green Grace", "Harpy", "Meereen", "secret identities", "murder", "death", "Unsullied"]
+		"tags": ["theories", "Galazza Galare (the Green Grace)", "Harpy", "Meereen", "secret identities", "murder", "death", "Unsullied"]
 	},
 	{
 		"name": "Gendry learned how to reforge Valyrian steel from Tobho Mott.",
@@ -433,7 +433,7 @@
 	{
 		"name": "Gendry will be the hammer of the waters.",
 		"hrefs": [{"url":"writeup/id/55986df5afdac35734dd62c6", "number":"1"}],
-		"tags": ["theories", "Gendry", "bastards", "House Baratheon", "Robert I Baratheon", "Gendry Waters", "Hammer of the Waters", "blacksmiths", "Riverlands"]
+		"tags": ["theories", "Gendry", "bastards", "House Baratheon", "Robert I Baratheon", "Hammer of the Waters", "blacksmiths", "Riverlands"]
 	},
 	{
 		"name": "Gendry is the future of house Baratheon.",
@@ -447,7 +447,7 @@
 	{
 		"name": "Darkstar is working for Doran.",
 		"hrefs": [{"url":"writeup/id/559bdf49afdac33bc219c8c8", "number":"1"}],
-		"tags": ["theories", "Gerold Dayne (Darkstar)", "Gerold Dayne", "Darkstar", "House Dayne", "High Hermitage", "Doran Martell", "House Martell", "conspiracies", "lies", "Myrcella Baratheon", "maiming"]
+		"tags": ["theories", "Gerold Dayne (Darkstar)", "House Dayne", "High Hermitage", "Doran Martell", "House Martell", "conspiracies", "lies", "Myrcella Baratheon", "maiming"]
 	},
 	{
 		"name": "Gerris is lying about what happened to Quentyn.",
@@ -461,17 +461,17 @@
 	{
 		"name": "The Ghost of High Heart is a child of the forest.",
 		"hrefs": [{"url":"writeup/id/559950eeafdac36e80cd1d0a", "number":"1"}],
-		"tags": ["theories", "Ghost of High Heart", "ghosts", "witches", "sorcerers", "prophecies", "Children"]
+		"tags": ["theories", "Ghost of High Heart", "ghosts", "witches", "sorcerers", "prophecies", "Children of the Forest"]
 	},
 	{
 		"name": "Gregor is Ser Robert Strong.",
 		"hrefs": [{"url":"writeup/id/5595b61dafdac30685ebc474", "number":"1"}],
-		"tags": ["theories", "Gregor Clegane", "House Clegane", "The Mountain", "Robert Strong", "necromancy", "lies", "secret identities", "Kingsguard", "Kingsguard members", "death", "resurrection", "Qyburn", "magic"]
+		"tags": ["theories", "Gregor Clegane (the Mountain)", "House Clegane", "Robert Strong", "necromancy", "lies", "secret identities", "Kingsguard", "death", "resurrection", "Qyburn", "magic"]
 	},
 	{
 		"name": "Ser Robert Strong will fight the Hound.",
 		"hrefs": [{"url":"writeup/id/55994a2dafdac36e266e54b6", "number":"1"}],
-		"tags": ["theories", "Robert Strong", "Kingsguard", "Kingsguard members", "Sandor Clegane", "House Clegane", "The Hound", "trials", "duels"]
+		"tags": ["theories", "Robert Strong", "Kingsguard", "Sandor Clegane (the Hound)", "House Clegane", "trials", "duels"]
 	},
 	{
 		"name": "Hallis Mollen is the hooded man in Winterfell.",
@@ -481,7 +481,7 @@
 	{
 		"name": "Harys will get killed in Braavos.",
 		"hrefs": [{"url":"writeup/id/5595a3f8afdac304b8b0f3f3", "number":"1"}],
-		"tags": ["theories", "Harys Swyft", "House Swyft", "Braavos", "Masters of Coin", "bravos", "murder", "death", "Kingsguard members", "Arya Stark", "Mercy", "Black Pearl", "courtesans", "duels", "clothing"]
+		"tags": ["theories", "Harys Swyft", "House Swyft", "Braavos", "Masters of Coin", "bravos", "murder", "death", "Kingsguard", "Arya Stark", "Mercy", "Black Pearl", "courtesans", "duels", "clothing"]
 	},
 	{
 		"name": "Howland is disguising himself as the High Septon.",
@@ -514,50 +514,50 @@
 	},
 	{
 		"name": "Aeron is going to rally the ironborn on Great Wyk against Euron.",
-		"tags": ["theories", "Damphair", "Aeron Greyjoy (Damphair)", "Euron Greyjoy", "Great Wyk", "ironborn"]
+		"tags": ["theories", "Aeron Greyjoy (Damphair)", "House Greyjoy", "Euron Greyjoy", "Great Wyk", "ironborn", "kings", "rebellion", "conspiracies"]
 	},
 	{
 		"name": "Cersei pushed Melara down the well.",
-		"tags": ["theories", "Cersei Lannister", "Melara", "Maggy the Frog", "prophesy"]
+		"tags": ["theories", "Cersei Lannister", "House Lannister", "Melara Hetherspoon", "House Hetherspoon", "Maggy the Frog", "prophecies", "maegis", "witches", "murder", "death"]
 	},
 	{
 		"name": "Jaime's dream while sleeping on weirwood was sent.",
 		"hrefs": [{"url":"writeup/id/55997a12afdac373bd3cae4f", "number":"1"}],
-		"tags": ["theories", "Jaime Lannister", "dreams", "prophesy"]
+		"tags": ["theories", "Jaime Lannister (the Kingslayer)", "House Lannister", "dreams", "prophecies", "weirwood"]
 	},
 	{
 		"name": "Jaime is the white lion in Dany's House of the Undying vision.",
 		"hrefs": [{"url":"writeup/id/5599a68dafdac378a3110152", "number":"1"}],
-		"tags": ["theories", "Jaime Lannister", "lion", "prophesy", "Daenerys Targaryen", "House of the Undying"]
+		"tags": ["theories", "Jaime Lannister (the Kingslayer)", "House Lannister", "white lion", "prophecies", "Daenerys Targaryen", "House Targaryen", "House of the Undying"]
 	},
 	{
 		"name": "Jaime will lead the Brotherhood Without Banners.",
 		"hrefs": [{"url":"writeup/id/55987551afdac358f61c8256", "number":"1"}],
-		"tags": ["theories", "Jaime Lannister", "Brotherhood Without Banners", "justice", "Riverlands"]
+		"tags": ["theories", "Jaime Lannister (the Kingslayer)", "House Lannister", "Brotherhood Without Banners", "justice", "Riverlands", "redemption", "Stoneheart", "Brienne of Tarth"]
 	},
 	{
 		"name": "Jalabhar is a bastard of Jhala.",
 		"hrefs": [{"url":"writeup/id/55987551afdac358f61c8256", "number":"1"}],
-		"tags": ["theories", "Jalabhar Xho", "Jhala", "Summer Isles"]
+		"tags": ["theories", "Jalabhar Xho", "Jhala", "Summer Isles", "bastards", "exile"]
 	},
 	{
 		"name": "Jalabhar Xho lost his homeland in a ritualized war.",
 		"hrefs": [{"url":"writeup/id/55986f1bafdac3573dfe2db6", "number":"1"}],
-		"tags": ["theories", "Jalabhar Xho", "Jhala", "Summer Isles"]
+		"tags": ["theories", "Jalabhar Xho", "Jhala", "Summer Isles", "exile"]
 	},
 	{
 		"name": "Janos Slynt knew about Ned's beheading.",
 		"hrefs": [{"url":"writeup/id/55a47404afdac32585dce97e", "number":"1"}],
-		"tags": ["theories", "Janos Slynt", "King's Landing", "Peter Baelish"]
+		"tags": ["theories", "Janos Slynt", "King's Landing", "Peter Baelish (Littlefinger)", "Eddard Stark (Ned)", "murder", "death", "execution", "House Slynt", "House Stark", "House Baelish"]
 	},
 	{
 		"name": "Jaqen's target in King's Landing was Ned Stark.",
 		"hrefs": [{"url":"writeup/id/55a47404afdac32585dce97e", "number":"1"}],
-		"tags": ["theories", "Jaqen H'gar", "King's Landing", "Eddard Stark"]
+		"tags": ["theories", "Jaqen H'ghar", "King's Landing", "Eddard Stark (Ned)", "assassins", "murder", "death", "Faceless Men", "House Stark"]
 	},
 	{
 		"name": "Robb's letter went to Oldtown.",
 		"hrefs": [{"url":"writeup/id/559869a1afdac35526d8a704", "number":"1"}],
-		"tags": ["theories", "Jason Mallister", "Oldtown", "Robb Stark"]
+		"tags": ["theories", "Jason Mallister", "Oldtown", "Robb Stark (the Young Wolf)", "Robb's letter", "inheritance", "Jon Snow", "legitimization", "kings", "House Stark"]
 	}
 ]
