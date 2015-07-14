@@ -343,6 +343,8 @@ module.exports = function (grunt) {
             '*.{ico,png,txt}',
             '.htaccess',
             'bower_components/**/*',
+            'app/explorer/d3*.js',
+            'components/topics.json',
             'assets/images/{,*/}*.{webp}',
             'assets/fonts/**/*',
             'index.html'
@@ -470,7 +472,9 @@ module.exports = function (grunt) {
               ['{.tmp,<%= yeoman.client %>}/{app,components}/**/*.js',
                '!{.tmp,<%= yeoman.client %>}/app/app.js',
                '!{.tmp,<%= yeoman.client %>}/{app,components}/**/*.spec.js',
-               '!{.tmp,<%= yeoman.client %>}/{app,components}/**/*.mock.js']
+               '!{.tmp,<%= yeoman.client %>}/{app,components}/**/*.mock.js',
+                '!{.tmp,<%= yeoman.client %>}/app/explorer/d3*.js'
+              ]
             ]
         }
       },

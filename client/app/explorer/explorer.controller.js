@@ -57,7 +57,7 @@ window.edge_lookup = {}
 var nodes = []
 var edges = []
 
-$.get('../components/topics.json', function(results) {
+$.get('components/topics.json', function(results) {
 	processData(results)
 	root_node = getNode('theories')
 	update()
