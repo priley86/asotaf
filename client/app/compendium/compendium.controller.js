@@ -25,10 +25,11 @@ angular.module('asotafApp')
         "Ben Plumm",
         "Benjen Stark",
         "Brandon Stark (Lord Rickard Stark's eldest son)",
-        "Brienne Tarth",
+        "Brienne of Tarth",
         "Bronn",
+        "Brynden Rivers",
         "Brynden Tully (the Blackfish)",
-        "Catelyn Tully",
+        "Catelyn Stark",
         "Cersei Lannister",
         "Chataya",
         "Coldhands",
@@ -69,4 +70,5 @@ angular.module('asotafApp')
             "subtopics":houses
         }
     ];
+
   });

@@ -8,9 +8,9 @@
 	    <li ng-repeat="topic in topics">
         <h3>{{topic.name}}</h3>
           <ul>
-            <li ng-repeat="subtopic in topic.subtopics">
-              <h5>{{subtopic}}</h5>
-                <ul>
+            <li ng-repeat="subtopic in topic.subtopics track by $index">
+              <span class="btn btn-link" data-toggle="collapse" aria-expanded="false" data-target="#collapse{{topic.name}}{{$index}}">{{subtopic}}</span>
+                <ul class="collapse" id="collapse{{topic.name}}{{$index}}">
                   <li ng-repeat="theory in theories | filter:subtopic">
                     <p>{{theory.name}} [ <i ng-repeat="href in theory.hrefs"><a href="{{href.url}}">{{href.number}}</a>&nbsp;</i>]</p>
                     
