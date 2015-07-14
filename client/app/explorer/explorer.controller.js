@@ -8,6 +8,14 @@ window.RING_CHART_HEIGHT = 700
 window.RING_CHART_RADIUS = 500
 window.RING_CHART_MAX_NODES = 60
 
+window.CHART_FONT_WEIGHT = function(d) {
+	return getNode(d.names[0]).editors_pick ? 'bold' : 'normal'
+}
+
+window.CHART_TEXT_DECORATION = function(d) {
+	return getNode(d.names[0]).editors_pick ? 'underline' : 'none'
+}
+
 var bezInterpolator = chroma.bezier(['lightyellow', 'orange', 'red'])
 window.CHART_GET_COLOR = function(d) {
 	return;
@@ -220,7 +228,7 @@ function processData(topics) {
 		for (var j = 0; j < node_names.length; j++) {
 			for (var k = j + 1; k < node_names.length; k++) {
 				connect(
-					getNode(node_names[j], j == 0),
+					getNode(node_names[j], j == 0, j == 0 && topic.editors_pick && topic.editors_pick.length),
 					getNode(node_names[k]),
 					j == 0
 				)
@@ -265,13 +273,17 @@ function processData(topics) {
 	}
 }
 
-function getNode(name, theory) {
+function getNode(name, theory, editors_pick) {
 	if (!node_lookup[name]) {
 		node_lookup[name] = {name: name, edges: 0, refs: 0, type: 'tag'}
 	}
 
 	if (theory) {
 		node_lookup[name].type = 'theory'
+	}
+
+	if (editors_pick) {
+		node_lookup[name].editors_pick = true
 	}
 
 	return node_lookup[name]
@@ -291,5 +303,5 @@ function getConnectionStrength(left, right) {
 
 	return edge ? edge.strength : 0
 }
-    
+
   });

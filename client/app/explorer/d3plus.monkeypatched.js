@@ -24588,6 +24588,7 @@ module.exports = function( vars , group ) {
               .call(style)
               // MONKEYPATCH
               .style('fill', window.CHART_GET_COLOR)
+              .style('font-weight', window.CHART_FONT_WEIGHT)
               .transition().duration(vars.draw.timing/2)
                 .delay(vars.draw.timing/2)
                 .call(opacity);
@@ -24606,9 +24607,8 @@ module.exports = function( vars , group ) {
               .attr("class","d3plus_label")
               .call(style)
               // MONKEYPATCH
-              .style('fill', function(a, b, c) {
-                //   console.log('WOOHOO')
-              })
+              .style('font-weight', window.CHART_FONT_WEIGHT)
+              .style('text-decoration', window.CHART_TEXT_DECORATION)
               .call(opacity);
 
           }
@@ -25183,7 +25183,7 @@ module.exports = function(vars, selection, enter, exit) {
         return "auto";
       }
   }).style('fill', function(d) {
-      return window.CHART_GET_COLOR(d)
+    //   return window.CHART_GET_COLOR(d)
   });
   };
   if (vars.draw.timing) {

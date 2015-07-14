@@ -17,7 +17,8 @@
 	{
 		"name": "Cersei is the next Aerys.",
 		"hrefs": [{"url": "writeup/id/5599a663afdac378925b9c18", "number": "1"}],
-		"tags": ["theories", "Cersei Lannister", "Aerys II Targaryen (the Mad King)", "wildfire", "King's Landing", "madness", "parentage", "Westeros", "House Targaryen", "House Lannister", "death"]
+		"tags": ["theories", "Cersei Lannister", "Aerys II Targaryen (the Mad King)", "wildfire", "King's Landing", "madness", "parentage", "Westeros", "House Targaryen", "House Lannister", "death"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Aerys caused the Others to come.",
@@ -36,7 +37,8 @@
 	{
 		"name": "The father of Alysane's children is Tormund.",
 		"hrefs": [{"url": "writeup/id/55987efeafdac35a6e64e530", "number": "1"}],
-		"tags": ["theories", "Alysane Mormont", "House Mormont", "Tormund Giantsbane", "wildlings", "The Wall", "Bear Island", "parentage", "bastards"]
+		"tags": ["theories", "Alysane Mormont", "House Mormont", "Tormund Giantsbane", "wildlings", "The Wall", "Bear Island", "parentage", "bastards"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Arianne is the younger queen in the Valonqar prophesy.",
@@ -90,7 +92,8 @@
 	{
 		"name": "Asha is pregnant.",
 		"hrefs": [{"url": "writeup/id/559c4a60afdac33dd5630150", "number": "1"}],
-		"tags": ["theories", "Asha Greyjoy (Yara Greyjoy)", "House Greyjoy", "pregnancy"]
+		"tags": ["theories", "Asha Greyjoy (Yara Greyjoy)", "House Greyjoy", "pregnancy"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Ashara helped Ned cover-up Jon's parentage.",
@@ -152,12 +155,14 @@
 	{
 		"name": "Balon was killed by a Faceless Man.",
 		"hrefs": [{"url": "writeup/id/559cacdaafdac346e4df257e", "number": "1"}],
-		"tags": ["theories", "Balon Greyjoy", "House Greyjoy", "Faceless Men", "dragon eggs", "assassins", "murder", "death", "Euron Greyjoy", "kinslaying", "kingslaying", "War of Five Kings", "kings", "Iron Islands"]
+		"tags": ["theories", "Balon Greyjoy", "House Greyjoy", "Faceless Men", "dragon eggs", "assassins", "murder", "death", "Euron Greyjoy", "kinslaying", "kingslaying", "War of Five Kings", "kings", "Iron Islands"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Lady Dustin worked with Mance to free Jeyne Poole and assisted him with the pink letter.",
 		"hrefs": [{"url": "writeup/id/559a0827afdac30cbfce34be", "number": "1"}],
-		"tags": ["theories", "Barbrey Dustin", "House Dustin", "House Ryswell", "Mance Rayder", "Jeyne Poole", "Arya Stark", "secret identities", "pink letter", "War of Five Kings", "Stannis Baratheon", "House Baratheon", "Theon Greyjoy", "House Greyjoy", "Walder Frey (Little Walder)", "Walder Frey (Big Walder)", "House Frey", "murder", "conspiracies", "House Bolton", "Roose Bolton", "Ramsay Snow (Ramsay Bolton)", "Winterfell", "crypts", "Abel", "kings", "snowmen", "warm cloak"]
+		"tags": ["theories", "Barbrey Dustin", "House Dustin", "House Ryswell", "Mance Rayder", "Jeyne Poole", "Arya Stark", "secret identities", "pink letter", "War of Five Kings", "Stannis Baratheon", "House Baratheon", "Theon Greyjoy", "House Greyjoy", "Walder Frey (Little Walder)", "Walder Frey (Big Walder)", "House Frey", "murder", "conspiracies", "House Bolton", "Roose Bolton", "Ramsay Snow (Ramsay Bolton)", "Winterfell", "crypts", "Abel", "kings", "snowmen", "warm cloak"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Brown Ben Plumm is descended from Elaena and Aegon IV Targaryen (the Unworthy)",
@@ -206,7 +211,8 @@
 	{
 		"name": "Brienne is descended from Ser Duncan the Tall.",
 		"hrefs": [{"url": "writeup/id/559dae4aafdac34b7cfe6f10", "number": "1"}],
-		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Duncan the Tall", "Lord Commanders of the Kingsguard", "Kingsguard", "parentage"]
+		"tags": ["theories", "Brienne of Tarth", "House Tarth", "Duncan the Tall", "Lord Commanders of the Kingsguard", "Kingsguard", "parentage"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Brienne is the more beautiful one from Cersei's Valonqar prophesy.",
@@ -276,7 +282,8 @@
 	{
 		"name": "Jaime is the Valonqar and will kill Cersei.",
 		"hrefs": [{"url": "writeup/id/55998975afdac375191fd246", "number": "1"}],
-		"tags": ["theories", "Jaime Lannister (the Kingslayer)", "House Lannister", "Cersei Lannister", "Valonqar", "prophecies", "death", "murder", "twins", "kinslaying"]
+		"tags": ["theories", "Jaime Lannister (the Kingslayer)", "House Lannister", "Cersei Lannister", "Valonqar", "prophecies", "death", "murder", "twins", "kinslaying"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Cersei is pregnant and will have an abortion.",
@@ -328,7 +335,8 @@
 	{
 		"name": "Daemon is the true Targaryen heir.",
 		"hrefs": [{"url":"writeup/id/55a13f0aafdac37b9cdc729a", "number":"1"}],
-		"tags": ["theories", "Daemon I Blackfyre (the Black Dragon)", "Daemon Waters", "House Blackfyre", "House Targaryen", "Great Bastards", "bastards", "Blackfyre Rebellion", "parentage", "Aegon IV Targaryen (Aegon the Unworthy)", "Daena Targaryen", "kings"]
+		"tags": ["theories", "Daemon I Blackfyre (the Black Dragon)", "Daemon Waters", "House Blackfyre", "House Targaryen", "Great Bastards", "bastards", "Blackfyre Rebellion", "parentage", "Aegon IV Targaryen (Aegon the Unworthy)", "Daena Targaryen", "kings"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Dany will take control of Khal Jhaqo's horde.",
@@ -401,7 +409,8 @@
 	{
 		"name": "Euron is the Corsair King.",
 		"hrefs": [{"url":"writeup/id/5599a5c7afdac3785c36e6e0", "number":"1"}],
-		"tags": ["theories", "Euron Greyjoy", "House Greyjoy", "Corsair King", "Astapor", "kings", "pirates", "sorcerers", "Tall Trees Town", "navies", "Basilisk Isles", "Iron Islands", "secret identities", "Daenerys Targaryen", "House Targaryen", "Missandei", "Unsullied"]
+		"tags": ["theories", "Euron Greyjoy", "House Greyjoy", "Corsair King", "Astapor", "kings", "pirates", "sorcerers", "Tall Trees Town", "navies", "Basilisk Isles", "Iron Islands", "secret identities", "Daenerys Targaryen", "House Targaryen", "Missandei", "Unsullied"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Euron's Silence is made out of weirwood.",
@@ -423,7 +432,8 @@
 		"hrefs": [{"url":"writeup/id/559c87d3afdac34636ee7eff", "number":"1"},
 			{"url":"writeup/id/559985ceafdac37492b2a489", "number":"2"}
 		],
-		"tags": ["theories", "Galazza Galare (the Green Grace)", "Harpy", "Meereen", "secret identities", "murder", "death", "Unsullied"]
+		"tags": ["theories", "Galazza Galare (the Green Grace)", "Harpy", "Meereen", "secret identities", "murder", "death", "Unsullied"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Gendry learned how to reforge Valyrian steel from Tobho Mott.",
@@ -471,7 +481,7 @@
 	{
 		"name": "Ser Robert Strong will fight the Hound.",
 		"hrefs": [{"url":"writeup/id/55994a2dafdac36e266e54b6", "number":"1"}],
-		"tags": ["theories", "Robert Strong", "Kingsguard", "Sandor Clegane (the Hound)", "House Clegane", "trials", "duels"]
+		"tags": ["theories", "Robert Strong", "Kingsguard", "Sandor Clegane (the Hound)", "House Clegane", "trials", "duels", "Cleganebowl"]
 	},
 	{
 		"name": "Hallis Mollen is the hooded man in Winterfell.",
@@ -481,7 +491,8 @@
 	{
 		"name": "Harys will get killed in Braavos.",
 		"hrefs": [{"url":"writeup/id/5595a3f8afdac304b8b0f3f3", "number":"1"}],
-		"tags": ["theories", "Harys Swyft", "House Swyft", "Braavos", "Masters of Coin", "bravos", "murder", "death", "Kingsguard", "Arya Stark", "Mercy", "Black Pearl", "courtesans", "duels", "clothing"]
+		"tags": ["theories", "Harys Swyft", "House Swyft", "Braavos", "Masters of Coin", "bravos", "murder", "death", "Kingsguard", "Arya Stark", "Mercy", "Black Pearl", "courtesans", "duels", "clothing"],
+		"editors_pick": ["ser_dunk_the_lunk"]
 	},
 	{
 		"name": "Howland is disguising himself as the High Septon.",
